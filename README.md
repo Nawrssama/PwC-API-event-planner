@@ -18,7 +18,7 @@
 
 - Clone the repository:
     ```
-    git clone git@github.com:Esmail-Jawabreh/PWC-API-Task.git
+    git clone git@github.com:Nawrssama/PwC-API-event-planner.git
     ```
 
 <br>
